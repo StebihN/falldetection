@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FallDetection</string>
+    <string name="obvesti_znanca">Obvesti znanca</string>
+    <string name="pokli_i_112">Pokliči 112</string>
+    <string name="warning">warning</string>
+    <string name="padec_zaznan">Spremljanje gibanja...</string>
+</resources>
